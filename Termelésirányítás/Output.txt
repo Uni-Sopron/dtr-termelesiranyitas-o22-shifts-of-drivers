@@ -1,0 +1,9 @@
+Tömegnövelő étrend a legolcsóbb alapanyagokból az év során napi 26.642577216871473 dollárból
+
+          Árucikk            Egység     Mennyiség     Ár   
+
+      Rúd szalámi               1 kg     252.99   $1163.73
+      Banán                     0.5 kg   228.44   $7538.81
+      C-Vitamin tabletta        1db      255.50   $1022.00
+                                         -----------------
+                                         Total:   $9724.54
