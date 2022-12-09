@@ -1,0 +1,90 @@
+set vezetok := Peti Evi Piroska Juliska Adam Rozi Janka Aladar Dani Zoli Tamas Balint Krisztian Karolina Marika Bogec Balazs Ricsi  Henrik  Abel;
+
+set targoncak := klapnis villas allo ottonnas linde toyota;
+
+set muszakok := delelott delutan;
+
+
+param ido :
+
+klapnis villas allo ottonnas linde toyota:=
+Peti 67 63 37 55 47 97
+Evi 86 30 74 36 46 111
+Piroska 64 40 67 89 81 31
+Juliska 78 27 108 77 90 106
+Adam 30 86 76 105 38 30
+Rozi 39 87 71 85 115 84
+Janka 72 55 52 41 35 74
+Aladar 107 64 41 104 111 85
+Dani 114 69 51 99 26 25
+Zoli 113 118 92 76 29 43
+Tamas 108 97 56 114 82 85
+Balint 63 65 104 63 76 55
+Krisztian 47 38 102 33 41 109
+Karolina 103 73 76 91 67 62
+Marika 77 33 42 108 28 77
+Bogec 117 95 95 43 102 75
+Balazs 76 50 81 48 84 39
+Ricsi 107 100 27 69 108 94
+Henrik 64 38 101 30 59 40
+Abel 35 112 32 110 92 53
+
+;
+
+
+param jogsi :
+
+klapnis villas allo ottonnas linde toyota:=
+
+Peti 0 1 1 1 0 0
+Evi 1 0 0 1 1 1
+Piroska 1 0 0 1 1 1
+Juliska 1 0 1 1 1 0
+Adam 0 1 0 0 1 1
+Rozi 1 0 1 1 1 0
+Janka 1 0 1 0 0 0
+Aladar 0 1 0 1 0 1
+Dani 0 1 0 1 1 1
+Zoli 0 1 0 1 1 0
+Tamas 0 1 1 1 0 0
+Balint 0 1 1 1 1 1
+Krisztian 0 1 0 1 0 0
+Karolina 1 0 0 1 0 1
+Marika 1 0 0 0 0 0
+Bogec 1 0 1 1 1 0
+Balazs 0 1 0 1 0 1
+Ricsi 1 1 0 1 1 0
+Henrik 0 0 1 1 0 0
+Abel 1 1 1 1 1 1
+
+;
+
+param initial_ido :=0;
+
+param dolgozike :
+
+delelott delutan  :=
+Peti 1 0 
+Evi 0 1 
+Piroska 1 1 
+Juliska 1 1 
+Adam 1 1 
+Rozi 1 1 
+Janka 1 1 
+Aladar 1 1 
+Dani 1 1
+Zoli 1 1 
+Tamas 1 1 
+Balint 1 0 
+Krisztian 1 0 
+Karolina 1 0
+Marika 1 0 
+Bogec 1 0 
+Balazs 1 0 
+Ricsi 1 0 
+Henrik 1 0
+Abel 1 0 
+
+;
+
+param nDays := 5;

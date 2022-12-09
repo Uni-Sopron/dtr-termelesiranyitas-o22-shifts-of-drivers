@@ -1,0 +1,39 @@
+﻿Rakodással töltött idő hetente: 4580
+
+ Rakodással töltött időnk összesen a(z) 1. munkanapig: 916
+
+ Rakodással töltött időnk összesen a(z) 2. munkanapig: 1832
+
+ Rakodással töltött időnk összesen a(z) 3. munkanapig: 2748
+
+ Rakodással töltött időnk összesen a(z) 4. munkanapig: 3664
+
+ Rakodással töltött időnk összesen a(z) 5. munkanapig: 4580
+
+
+
+Műszak: delelott
+
+ Peti -  allo - napi 37 mp - heti 185 mp 
+  Balint -  toyota - napi 55 mp - heti 275 mp 
+  Krisztian -  ottonnas - napi 33 mp - heti 165 mp 
+  Karolina -  toyota - napi 62 mp - heti 310 mp 
+  Marika -  klapnis - napi 77 mp - heti 385 mp 
+  Bogec -  ottonnas - napi 43 mp - heti 215 mp 
+  Balazs -  toyota - napi 39 mp - heti 195 mp 
+  Ricsi -  ottonnas - napi 69 mp - heti 345 mp 
+  Henrik -  ottonnas - napi 30 mp - heti 150 mp 
+  Abel -  allo - napi 32 mp - heti 160 mp 
+ 
+Műszak: delutan
+
+ Evi -  ottonnas - napi 36 mp - heti 180 mp 
+  Piroska -  toyota - napi 31 mp - heti 155 mp 
+  Juliska -  ottonnas - napi 77 mp - heti 385 mp 
+  Adam -  toyota - napi 30 mp - heti 150 mp 
+  Rozi -  klapnis - napi 39 mp - heti 195 mp 
+  Janka -  allo - napi 52 mp - heti 260 mp 
+  Aladar -  villas - napi 64 mp - heti 320 mp 
+  Dani -  toyota - napi 25 mp - heti 125 mp 
+  Zoli -  linde - napi 29 mp - heti 145 mp 
+  Tamas -  allo - napi 56 mp - heti 280 mp 
